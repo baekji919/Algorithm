@@ -1,16 +1,10 @@
 package main
 
+import "Algorithm/conditionalStatement_if"
+
 func main()  {
 
-	//var a, b, c int
-	//fmt.Scanln(&a)
-	//fmt.Scanln(&b)
-	//fmt.Scanln(&c)
-	//
 	//Bj2577(a, b, c)
-	//
-	//var i, j int
-	//fmt.Scan(&i, &j)
 	//
 	//Bj1330(i, j)
 
@@ -22,5 +16,5 @@ func main()  {
 
 	//Bj2884(0, 10)
 
-	Bj2525()
+	conditionalStatement_if.Bj2525()
 }

@@ -1,4 +1,4 @@
-package main
+package loopStatement_for
 
 import (
 	"fmt"
