@@ -16,5 +16,7 @@ func main()  {
 
 	//Bj2884(0, 10)
 
-	conditionalStatement_if.Bj2525()
+	//conditionalStatement_if.Bj2525()
+
+	conditionalStatement_if.Bj2480()
 }
