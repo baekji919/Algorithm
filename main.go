@@ -13,5 +13,6 @@ func main()  {
 	//conditionalStatement_if.Bj2525()
 	//conditionalStatement_if.Bj2480()
 	//loopStatement_for.Bj2739()
-	loopStatement_for.Bj10950()
+	//loopStatement_for.Bj10950()
+	loopStatement_for.Bj8393()
 }
