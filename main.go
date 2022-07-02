@@ -19,5 +19,6 @@ func main()  {
 	//loopStatement_for.Bj2741()
 	//loopStatement_for.Bj2742()
 	//loopStatement_for.Bj11021()
-	loopStatement_for.Bj11022()
+	//loopStatement_for.Bj11022()
+	loopStatement_for.Bj2438()
 }
